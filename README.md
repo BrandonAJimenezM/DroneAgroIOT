@@ -60,10 +60,3 @@ public/
 - **Integración con redes sociales** (Facebook, Twitter, Google+).  
 
 ---
-
-## 📄 Licencia
-
-Este proyecto es solo con fines educativos/demostrativos.  
-Puedes modificarlo y adaptarlo según tus necesidades.
-
-```
