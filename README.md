@@ -1,4 +1,4 @@
-```markdown
+---
 # 🌱 DronAgroIoT - Sitio Web Estático
 
 Este proyecto es un **sitio web estático** diseñado para mostrar los servicios y productos de **DronAgroIoT**, una empresa dedicada a la innovación agrícola mediante el uso de drones, sensores IoT y sistemas de monitoreo inteligente.
